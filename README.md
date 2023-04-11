@@ -27,25 +27,24 @@ Create relevant insights that are not provided in the metric list/stakeholder me
 
 ## Data Model 
 
-<p align="center">
-  <img src="https://github.com/Naveen-S6/AtliQ_Mart_Supply_Chain_Analysis/blob/main/resources/data_model.png" height="400">
-</p>
+![Data Model](https://user-images.githubusercontent.com/64686346/231274015-a33b2f26-e87e-4188-9185-49d2d7603ca0.PNG)
 
-## Dashboard 
+## Analytics Page 
 
-<p align="center">
-  <img src="https://github.com/Naveen-S6/AtliQ_Mart_Supply_Chain_Analysis/blob/main/resources/Dashboard.jpg" width="300">
-</p>
+![Analytics Page](https://user-images.githubusercontent.com/64686346/231274092-390f0b76-384b-4d10-b5f5-d7ff858fe10f.PNG)
+
+## Insights Page
+
+![Insights Page](https://user-images.githubusercontent.com/64686346/231274049-5f2adf06-af67-43e8-9f78-846cc2c11e95.PNG)
+
 
 ## Some Major Insights 
 
-- All the Key Metrics (OT%, IF%, OTIF%) are far behind the target
-- On an average, orders are delayed 0.42 days from the agreed date of delivery
-- Lotus Mart, Coolblue, Acclaimed stores have the highest orders as well as delayed the most to deliver the products on time 
-  - Is it because we are not estimating the right delivery date?
-  - Is it because we are receiving more orders than expected?
-- Ghee, curd and butter products are most delayed to deliver. 
-- There is no noticeable improvements in any of the key metrics in the last few months
-- There is a huge gap in IF% for most of the customers. Is it because of less production?
+- June Month got to the lowest point in both LIFR and VOFR metric.
+- The OTIF % shows a great gap between its target.
+- The least ordered and delivered category of product is beverages.
+- The city which shows the lowest LIFR and VOFR % is Vadodara.
+- The city which shows the least delivery of products is Surat.
+- The AM Butter 250 shows the least LIFR and VOFR %.
 
 
